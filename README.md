@@ -4,12 +4,14 @@ I am a fourth year Mathematics student at UPC. I am passionate about learning an
 
 ## 🎓 Education
 - **Mathematics**
-  Universitat Politècnica de Catalunya (UPC)
-  Expected Graduation: June 2026
+
+Universitat Politècnica de Catalunya (UPC)
+
+Expected Graduation: June 2026
 
 ## 🎯 Projects
 
-- [Titanic | Kaggle Competition] (https://github.com/oriolraventost/Kaggle-Competitions/blob/main/titanic.ipynb) - Intoduction to binary classification problems for supervised learning.
+- [Titanic | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/titanic.ipynb) - Intoduction to binary classification problems for supervised learning.
   
 
 <!--
