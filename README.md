@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 About Me
+
+I am a fourth year Mathematics student at UPC. I am passionate about learning and improving my skills in Data Science and Machine Learning in order to make a positive impact in the world.
 
 <!--
 **oriolraventost/oriolraventost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
