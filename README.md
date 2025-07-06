@@ -1,6 +1,16 @@
 ## 👋 About Me
 
-I am a fourth year Mathematics student at UPC. I am passionate about learning and improving my skills in Data Science and Machine Learning in order to make a positive impact in the world.
+I am a fourth year Mathematics student at UPC. I am passionate about learning and improving my skills in Data Science & Machine Learning in order to make a positive impact in the world.
+
+## 🎓 Education
+- **Mathematics**
+  Universitat Politècnica de Catalunya (UPC)
+  Expected Graduation: June 2026
+
+## 🎯 Projects
+
+- [Titanic | Kaggle Competition] (https://github.com/oriolraventost/Kaggle-Competitions/blob/main/titanic.ipynb) - Intoduction to binary classification problems for supervised learning.
+  
 
 <!--
 **oriolraventost/oriolraventost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
