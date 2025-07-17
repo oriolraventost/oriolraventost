@@ -8,7 +8,7 @@ I am a fourth year Mathematics student at UPC. I am passionate about learning an
 
 - Universitat Politècnica de Catalunya (UPC)
 
-- Expected Graduation: June 2026
+- Expected Graduation: July 2026
 
 ## 🎯 Projects
 
