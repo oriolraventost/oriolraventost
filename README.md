@@ -12,9 +12,9 @@ I am a fourth year Mathematics student at UPC. I am passionate about learning an
 
 ## 🎯 Projects
 
-- [Titanic | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/titanic.ipynb) - Survival prediction via binary classification using logistic regression and tree‑based ensembles.
-- [Store Sales | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/store-sales.ipynb) - Retail sales forecasting with feature engineering, seasonal‑trend decomposition, and XGBoost.
-- [TPS July 2022 | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/tps-july-2022.ipynb) - Unsupervised clustering on synthetic control data using K‑Means and Bayesian Gaussian Mixtures.
+- [Titanic | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/titanic.ipynb) - Binary survival prediction with logistic regression and ensemble trees.
+- [Store Sales | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/store-sales.ipynb) - Retail sales forecasting using seasonal features and XGBoost.
+- [TPS July 2022 | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/tps-july-2022.ipynb) - Clustering synthetic control data via K‑Means and Bayesian GMM.
   
 
 <!--
