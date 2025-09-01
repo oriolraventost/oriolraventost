@@ -1,22 +1,12 @@
 ## 👋 About Me
 
-I am a fourth year Mathematics student at UPC. I am passionate about learning and improving my skills in Data Science & Machine Learning in order to make a positive impact in the world.
-
-## 🎓 Education
-
-**Mathematics**
-
-- Universitat Politècnica de Catalunya (UPC)
-
-- Expected Graduation: July 2026
+I am a Mathematics undergraduate at UPC with a foundation in calculus, linear algebra, probability, statistical inference, and differential equations. My studies have helped me develop careful analytical and problem-solving habits, allowing me to tackle complex mathematical problems with clarity.
+I work on data science and machine learning side projects, applying mathematical concepts to real-world problems. I approach each project with curiosity and a willingness to learn, and I’m eager to continue developing my skills through new challenges and practical experiences.
 
 ## 🎯 Projects
 
-- [Titanic | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/titanic.ipynb) - Binary survival prediction with logistic regression and ensemble trees.
-  
-- [Store Sales | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/store-sales.ipynb) - Retail sales forecasting using seasonal features and XGBoost.
-- [TPS July 2022 | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/tps-july-2022.ipynb) - Clustering synthetic control data via K‑Means and Bayesian GMM.
-- [Predict the Introverts from the Extroverts | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/predict-the-introverts-from-the-extroverts.ipynb) - Predict personality type (introvert/extrovert) using behavioral features and XGBoost with stratified cross-validation. Placed 224th out of 4331 participants (top 5.2%).
+- [Predict the Introverts from the Extroverts | Kaggle Competition](https://github.com/oriolraventost/Kaggle-Competitions/blob/main/predict-the-introverts-from-the-extroverts.ipynb) - Built a machine learning model to classify individuals as introverts or extroverts based on behavioral and personality trait data using an XGBoost model with stratified cross-validation, achieving 96.96% accuracy and ranking in the top 5.2% of participants.
+- [Binary Classification with a Bank Dataset | Kaggle Competition]() - Developed a model to predict the probability of client subscription to bank term deposits using XGBoost and LightGBM with stratified 5-fold cross-validation and blended predictions, achieving a ROC AUC of 0.97443 and ranking in the top 15.7% of participants.
   
 
 <!--
