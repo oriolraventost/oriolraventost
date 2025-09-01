@@ -1,6 +1,7 @@
 ## 👋 About Me
 
 I am a Mathematics undergraduate at UPC with a foundation in calculus, linear algebra, probability, statistical inference, and differential equations. My studies have helped me develop careful analytical and problem-solving habits, allowing me to tackle complex mathematical problems with clarity.
+
 I work on data science and machine learning side projects, applying mathematical concepts to real-world problems. I approach each project with curiosity and a willingness to learn, and I’m eager to continue developing my skills through new challenges and practical experiences.
 
 ## 🎯 Projects
