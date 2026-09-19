@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Mathematics undergraduate at UPC with a rigorous foundation in calculus, linear algebra, and statistics. Driven to apply this expertise to complex projects to deliver solutions and further advance technical skills.
+BSc in Mathematics graduate from UPC, with a strong foundation in calculus, linear algebra, and statistics. Currently pursuing an MSc in Data Science at UPC, focused on applying mathematical expertise to solve complex, data-driven problems.
 
 ---
 
