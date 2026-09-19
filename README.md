@@ -6,7 +6,7 @@ Mathematics undergraduate at UPC with a rigorous foundation in calculus, linear 
 
 ## 📌 Projects
 
-### 1. Gradient Boosting Implementation  [[LINK](https://github.com/oriolraventost/gradient-boosting-implementation)]
+### Gradient Boosting Implementation  [[LINK](https://github.com/oriolraventost/gradient-boosting-implementation)]
 
 Modular implementation of Gradient Boosting built from scratch using **PyTorch** and **Scikit-Learn**. In addition to traditional decision trees, it allows Multi-Layer Perceptrons (MLPs) and Convolutional Neural Networks (CNNs) to be used as base weak learners. Designed to be easy to configure and extend to new datasets.
 
